@@ -116,24 +116,30 @@ h2 {
 
 #section-4-div {
     text-align: center;
-}
-
-#section-4-div img {
-    display: inline-block;
-    max-width: 100%;
+    margin: 5% 0% 5% 0%;
+    display: flex;
+    justify-content: center;*/
 }
 
 .quadr {
     display: inline-block;
     border: solid 1px rgb(211, 211, 211);
     border-radius: 5px;
-    width: 25%;
+    max-width: 25%;
     margin: 2%;
-    
-
+    overflow: hidden;
 }
 
-/* ASIDE */
+.quadr img {
+    max-width: 100%;
+    max-height: 80%;
+    overflow: hidden;
+}
+
+.quadr p {
+    padding: 0% 5% 0% 5%;
+    line-height: 1.5;
+}
 
 /* FOOTER */
 
