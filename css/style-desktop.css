@@ -82,18 +82,19 @@ body p {
 /* SECTION-2 */
 #section-2-div img {
     border-radius: 50%;
-    width: 40%;
-    float: left;
+    width: 30%;
     margin-right: 10%;
+    float: left;
 }
 
 #section-2-div h2 {
     color: #25a2c3;
     font-family: "Montserrat", sans-serif;
+   
 }
 
 #section-2-div {
-    padding: 10%;
+    padding: 8%;
 }
 
 /* SECTION-3 */
